@@ -1,2 +1,0 @@
-# bcd
-Baby crying detector 
